@@ -101,7 +101,7 @@ Results/Scores/A_GPT/naive/a_promote/*---all_metrics.npy
 
 Overview after a successful run:
 
-![PROMOTE multi-metric anomaly overview](imgs/framework.pdf)
+![PROMOTE multi-metric anomaly overview](imgs/framework.png)
 
 ## Move Folders or Run from Another Directory
 
