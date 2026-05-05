@@ -99,7 +99,7 @@ Results/Promote/anomaly_indices/*.json
 Results/Scores/A_GPT/naive/a_promote/*---all_metrics.npy
 ```
 
-Overview after a successful run:
+Overview :
 
 ![PROMOTE multi-metric anomaly overview](imgs/framework.png)
 
