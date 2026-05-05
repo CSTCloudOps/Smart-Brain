@@ -1,0 +1,7 @@
+[Data_Params]
+
+preprocess = "min-max"
+diff_p = 1
+
+[Model_Params.Default]
+q = 1e-4

@@ -1,0 +1,7 @@
+[Data_Params]
+preprocess = "raw"
+diff_order = 1
+
+# if your want to specify the model params for one Dataset
+[Model_Params.Default]
+cuda = true
